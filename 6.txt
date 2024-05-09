@@ -1,0 +1,31 @@
+Certainly! Here are the steps for creating and executing a Python file in Google Cloud Shell:
+
+1. **Access Google Cloud Console**:
+   - Open a web browser and navigate to https://console.cloud.google.com/.
+   - Log in with your Google account credentials.
+
+2. **Activate Cloud Shell**:
+   - Once logged in, click on the "Activate Cloud Shell" button located at the top right corner of the Google Cloud Console.
+
+3. **Open Text Editor**:
+   - In the Cloud Shell terminal, you can use text editors like `nano`, `vi`, or `emacs`. For simplicity, let's use `nano`.
+   - Type `nano example.py` in the Cloud Shell terminal and press Enter. This command opens the `nano` text editor with a new file named `example.py`.
+
+4. **Write Python Code**:
+   - Inside the `nano` editor, write your Python code. For example:
+     ```python
+     print("Hello, world!")
+     ```
+
+5. **Save the File**:
+   - To save the file in `nano`, press `Ctrl + O`, then press Enter to confirm the filename.
+   - Next, press `Ctrl + X` to exit `nano`.
+
+6. **Execute the Python File**:
+   - After saving the file, execute it using the Python interpreter by typing `python example.py` in the Cloud Shell terminal and pressing Enter.
+   - The output "Hello, world!" should be displayed on the terminal.
+
+7. **Exit Cloud Shell**:
+   - Once you're done, you can exit Cloud Shell by closing the browser tab or typing `exit` in the terminal and pressing Enter.
+
+These steps should guide you through creating and executing a Python file in Google Cloud Shell. Let me know if you need further assistance!
